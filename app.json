@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sweet-home",
+    "slug": "sweet-home",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sweet-home"
+}
